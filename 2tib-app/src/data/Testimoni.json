@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "productId": 3,
+    "nama": "laura",
+    "rating": 5,
+    "ulasan": "buahnya segar dan enak!",
+    "avatar": "https://ui-avatars.com/api/?name=Laura&background=8BC34A&color=fff"
+  },
+  {
+    "id": 2,
+    "productId": 1,
+    "nama": "pika",
+    "rating": 4,
+    "ulasan": "buahnya manis bangett.",
+    "avatar": "https://ui-avatars.com/api/?name=Pika&background=4CAF50&color=fff"
+  },
+  {
+    "id": 3,
+    "productId": 3,
+    "nama": "cikal",
+    "rating": 4,
+    "ulasan": "Buahnya manis dan pelayanannya ramah!",
+    "avatar": "https://ui-avatars.com/api/?name=Cikal&background=388E3C&color=fff"
+  },
+  {
+    "id": 4,
+    "productId": 2,
+    "nama": "Lena",
+    "rating": 5,
+    "ulasan": "Cepat banget sampainya, padahal aku baru pesan kemarin!",
+    "avatar": "https://ui-avatars.com/api/?name=Lena&background=2E7D32&color=fff"
+  },
+  {
+    "id": 5,
+    "productId": 1,
+    "nama": "lala",
+    "rating": 5,
+    "ulasan": "kondisi buahnya bagus",
+    "avatar": "https://ui-avatars.com/api/?name=Lala&background=1B5E20&color=fff"
+  }
+]

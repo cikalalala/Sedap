@@ -1,0 +1,53 @@
+[
+    
+  {
+    "id": 1,
+    "nama": "Strawberry",
+    "harga": 15000,
+    "deskripsi": "Berry segar bewarna merah",
+    "kategori": "buah-buahan",
+    "gambar": "/img/berry.jpg",
+    "stok": 25,
+    "is_unggulan": true
+  },
+  {
+    "id": 2,
+    "nama": "Mangga",
+    "harga": 12000,
+    "deskripsi": "Buah tropis manis dan segar",
+    "kategori": "buah-buahan",
+    "gambar": "/img/mangga.jpg",
+    "stok": 20,
+    "is_unggulan": true
+  },
+  {
+    "id": 3,
+    "nama": "Anggur",
+    "harga": 18000,
+    "deskripsi": "Anggur ungu segar dan manis",
+    "kategori": "buah-buahan",
+    "gambar": "/img/anggur.jpg",
+    "stok": 15,
+    "is_unggulan": true
+  },
+  {
+    "id": 4,
+    "nama": "Semangka",
+    "harga": 10000,
+    "deskripsi": "Semangka merah segar dan berair",
+    "kategori": "buah-buahan",
+    "gambar": "/img/semangka.jpg",
+    "stok": 10,
+    "is_unggulan": true
+  },
+   {
+    "id": 5,
+    "nama": "Pepaya",
+    "harga": 10000,
+    "deskripsi": "Pepaya manis ",
+    "kategori": "buah-buahan",
+    "gambar": "/img/pepaya.jpg",
+    "stok": 10,
+    "is_unggulan": true
+  }
+]
