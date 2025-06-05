@@ -8,8 +8,9 @@ import TopProduk from "./components/TopProduk";
 import Testimoni from "./components/Testimoni";
 import CekProduk from "./pages/CekProduk";
 import About from "./components/About";
-
+import Products from "./pages/Products";
 import Hero from "./components/HeroSection";
+
 
 
 // Lazy-loaded Admin Layout & Pages
@@ -27,6 +28,7 @@ const Login = React.lazy(() => import("./pages/auth/Login"));
 const Register = React.lazy(() => import("./pages/auth/Register"));
 const Forgot = React.lazy(() => import("./pages/auth/Forgot"));
 const Loading = React.lazy(() => import("./components/Loading"));
+const ProductDetails = React.lazy(() => import("./pages/ProductDetails"))
 
 function App() {
   return (
@@ -54,6 +56,8 @@ function App() {
           <Route path="/orders" element={<Orders />} />
           <Route path="/customers" element={<Customers />} />
           <Route path="/users" element={<Users />} />
+          <Route path="products" element={<Products />} />
+          <Route path="/products/:id" element={<ProductDetails />} /> 
         </Route>
 
         {/* Auth Pages */}
